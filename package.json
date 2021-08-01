@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "vercel": "^23.0.1"
+  },
+  "dependencies": {
+    "base32-encode": "^2.0.0"
+  }
+}
